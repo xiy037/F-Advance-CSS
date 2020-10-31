@@ -27,6 +27,7 @@ ul {
 .header,
 .footer {
   width: 100%;
+  margin: 10px;
 }
 
 .header {
@@ -52,6 +53,8 @@ ul {
 }
 
 .footer {
+  padding: 20px 0;
+  text-align: center;
   background-color: whitesmoke;
   color: gray;
 }
