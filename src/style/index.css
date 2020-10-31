@@ -65,8 +65,13 @@ ul {
   margin: 0 10px;
 }
 
-.aside-left {
-  background-color: red;
+.about,
+.archives {
+  padding: 10px;
+}
+
+.about {
+  background-color: whitesmoke;
 }
 
 .aside-right {
@@ -101,6 +106,6 @@ ul {
 }
 
 .content {
-  flex: 3;
+  flex: 5;
   background-color: green;
 }
